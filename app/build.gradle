@@ -4,6 +4,7 @@ plugins {
     id 'kotlin-kapt'
     id 'androidx.navigation.safeargs.kotlin'
     id 'kotlin-parcelize'
+    id 'com.google.gms.google-services'
 }
 
 android {
@@ -97,5 +98,11 @@ dependencies {
 
     //bitmap converter
     implementation('io.coil-kt:coil:1.3.2')
+
+    //firebase
+    implementation 'com.google.firebase:firebase-firestore-ktx:24.0.0'
+    implementation 'com.google.android.gms:play-services-auth:20.0.0'
+    implementation 'com.google.firebase:firebase-auth-ktx:21.0.1'
+    implementation 'com.google.firebase:firebase-storage-ktx:20.0.0'
 
 }

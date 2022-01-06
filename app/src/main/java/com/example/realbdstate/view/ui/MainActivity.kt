@@ -1,6 +1,5 @@
 package com.example.realbdstate.view.ui
 
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.realbdstate.databinding.ActivityMainBinding

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1072067867672",
+    "project_id": "bdlandfinal",
+    "storage_bucket": "bdlandfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072067867672:android:81b45f44f944c0bc0e3f6d",
+        "android_client_info": {
+          "package_name": "com.example.realbdstate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072067867672-obi72e11gtccokl52aqogo9mvlss1aca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realbdstate",
+            "certificate_hash": "6074e63080961dfe68b921534c3276b90fb8a51c"
+          }
+        },
+        {
+          "client_id": "1072067867672-aqmgrmui253g88ov8rgu8nj5tadnu27r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZjwKBfMJbRsSrbvoEaWoy1mZVXiGEkDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072067867672-aqmgrmui253g88ov8rgu8nj5tadnu27r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
